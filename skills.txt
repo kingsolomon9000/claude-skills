@@ -1,0 +1,4 @@
+vercel-labs/skills --skill find-skills
+emilkowalski/skill
+pbakaus/impeccable --skill impeccable
+leonxlnx/taste-skill --skill design-taste-frontend
